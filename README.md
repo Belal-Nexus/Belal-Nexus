@@ -25,27 +25,38 @@ I enjoy learning through practical projects, technical labs, and continuous expe
 - 🛡️ Exploring network security and security monitoring
 - 🤖 Developing my knowledge of artificial intelligence
 
-<WritingBlock id="83621" variant="document">## > tech_stack
-💻 Software Engineering
-<p align="left">
-  <img src="https://img.shields.io/badge/C%23-101510?style=for-the-badge&logo=csharp&logoColor=4ade80" />
-  <img src="https://img.shields.io/badge/HTML5-101510?style=for-the-badge&logo=html5&logoColor=4ade80" />
-  <img src="https://img.shields.io/badge/CSS3-101510?style=for-the-badge&logo=css3&logoColor=4ade80" />
-  <img src="https://img.shields.io/badge/JavaScript-101510?style=for-the-badge&logo=javascript&logoColor=4ade80" />
-  <img src="https://img.shields.io/badge/SQL_Server-101510?style=for-the-badge&logo=microsoftsqlserver&logoColor=4ade80" />
+## `> tech_stack`
+
+### 💻 Software Engineering
+
+<p>
+  <img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 </p>
 
-🛡️ Cybersecurity & Networking
-<p align="left">
-  <img src="https://img.shields.io/badge/Wireshark-101510?style=for-the-badge&logo=wireshark&logoColor=4ade80" />
-  <img src="https://img.shields.io/badge/Linux-101510?style=for-the-badge&logo=linux&logoColor=4ade80" />
-  <img src="https://img.shields.io/badge/Networking-101510?style=for-the-badge&logo=cisco&logoColor=4ade80" />
-  <img src="https://img.shields.io/badge/Security_Monitoring-101510?style=for-the-badge&logo=elastic&logoColor=4ade80" />
+### 🛡️ Cybersecurity & Networking
+
+<p>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Cisco_Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=65E572" />
+  <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=elastic&logoColor=white" />
 </p>
 
-🤖 Artificial Intelligence
-Currently exploring artificial intelligence concepts and practical applications.
----</WritingBlock>
+### 🤖 Artificial Intelligence
+
+<p>
+  <img src="https://img.shields.io/badge/AI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Learning-2EA44F?style=for-the-badge&logo=bookstack&logoColor=white" />
+</p>
+
+*Currently exploring artificial intelligence concepts and practical applications.*
+
+---
 
 ## `> featured_projects`
 
