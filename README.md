@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./cyber-banner.png" width="100%" alt="Cybersecurity Banner" />
+</p>
+
 # 👋 Hi, I'm Belal
 
 ### `Software Engineering` · `Cybersecurity` · `Artificial Intelligence`
