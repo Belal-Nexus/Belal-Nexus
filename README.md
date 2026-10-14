@@ -51,12 +51,6 @@ A car information and comparison web application project.
 
 A cybersecurity project focused on exploring Security Operations Center (SOC) workflows and security monitoring.
 
-- Designing a dashboard for security-related information
-- Exploring network monitoring and security tool integrations
-- Documenting implemented features as development progresses
-
-*Project capabilities and integrations will be documented as they are implemented and tested.*
-
 ## `> training`
 
 **ITIDA & NTI — Network Security Training**
