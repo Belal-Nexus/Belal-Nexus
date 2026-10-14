@@ -25,21 +25,27 @@ I enjoy learning through practical projects, technical labs, and continuous expe
 - 🛡️ Exploring network security and security monitoring
 - 🤖 Developing my knowledge of artificial intelligence
 
-## `> tech_stack`
+<WritingBlock id="83621" variant="document">## > tech_stack
+💻 Software Engineering
+<p align="left">
+  <img src="https://img.shields.io/badge/C%23-101510?style=for-the-badge&logo=csharp&logoColor=4ade80" />
+  <img src="https://img.shields.io/badge/HTML5-101510?style=for-the-badge&logo=html5&logoColor=4ade80" />
+  <img src="https://img.shields.io/badge/CSS3-101510?style=for-the-badge&logo=css3&logoColor=4ade80" />
+  <img src="https://img.shields.io/badge/JavaScript-101510?style=for-the-badge&logo=javascript&logoColor=4ade80" />
+  <img src="https://img.shields.io/badge/SQL_Server-101510?style=for-the-badge&logo=microsoftsqlserver&logoColor=4ade80" />
+</p>
 
-**Programming & Web**
+🛡️ Cybersecurity & Networking
+<p align="left">
+  <img src="https://img.shields.io/badge/Wireshark-101510?style=for-the-badge&logo=wireshark&logoColor=4ade80" />
+  <img src="https://img.shields.io/badge/Linux-101510?style=for-the-badge&logo=linux&logoColor=4ade80" />
+  <img src="https://img.shields.io/badge/Networking-101510?style=for-the-badge&logo=cisco&logoColor=4ade80" />
+  <img src="https://img.shields.io/badge/Security_Monitoring-101510?style=for-the-badge&logo=elastic&logoColor=4ade80" />
+</p>
 
-![C#](https://img.shields.io/badge/C%23-111111?style=flat-square&logo=csharp&logoColor=4ade80)
-![HTML5](https://img.shields.io/badge/HTML5-111111?style=flat-square&logo=html5&logoColor=4ade80)
-![CSS3](https://img.shields.io/badge/CSS3-111111?style=flat-square&logo=css3&logoColor=4ade80)
-![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=4ade80)
-![SQL Server](https://img.shields.io/badge/SQL_Server-111111?style=flat-square&logo=microsoftsqlserver&logoColor=4ade80)
-
-**Cybersecurity & Networking**
-
-![Wireshark](https://img.shields.io/badge/Wireshark-111111?style=flat-square&logo=wireshark&logoColor=4ade80)
-![Linux](https://img.shields.io/badge/Linux-111111?style=flat-square&logo=linux&logoColor=4ade80)
-![Networking](https://img.shields.io/badge/Networking-111111?style=flat-square&logo=cisco&logoColor=4ade80)
+🤖 Artificial Intelligence
+Currently exploring artificial intelligence concepts and practical applications.
+---</WritingBlock>
 
 ## `> featured_projects`
 
