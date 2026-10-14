@@ -58,19 +58,39 @@ I enjoy learning through practical projects, technical labs, and continuous expe
 
 ---
 
-## `> featured_projects`
+<WritingBlock id="58241" variant="document">## > featured_projects
+<p align="center">
+  <img src="https://img.shields.io/badge/FEATURED_PROJECTS-101510?style=for-the-badge&logo=github&logoColor=4ade80" />
+</p>
 
-### 🚗 CarHub
-
-A car information and comparison web application project.
-
-- Frontend development using HTML, CSS, and JavaScript
-- Backend API development using C# and ASP.NET Core
-- SQL Server database integration
-
-### 🛡️ SOCVision
-
-A cybersecurity project focused on exploring Security Operations Center (SOC) workflows and security monitoring.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+🚗 CarHub
+Car Information & Comparison Platform
+A web application project for browsing car information, comparing specifications, and managing car data.
+Tech Stack
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/C%23-68217A?style=flat-square&logo=csharp&logoColor=white" />
+<img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+Project Focus
+- Car listings and details
+- Vehicle specification comparison
+- Backend API and database integration
+View CarHub Repository →
+</td>
+<td width="50%" valign="top">
+🛡️ SOCVision
+Cybersecurity Project
+A project currently in development.
+View SOCVision Repository →
+</td>
+</tr>
+</table>
+---</WritingBlock>
 
 ## `> training`
 
